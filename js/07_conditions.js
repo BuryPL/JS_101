@@ -37,5 +37,5 @@ switch (kolor) {
             console.log("Kolor zielony");
             break;
     default:
-            console.log("Kolor inny niż czerwony,zielony lub niebieski");                      
+            console.log("Kolor inny niż czerwony,zielony lub niebieski");        
 }
